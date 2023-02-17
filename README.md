@@ -1,3 +1,3 @@
 # crafterkolyan.github.io
 
-Entry point for open Offline Web Applications
+Entry point for Static Web Applications
