@@ -1,0 +1,6 @@
+title: Static Web Applications
+
+exclude:
+  - .gitignore
+  - .vscode
+  - README.md
