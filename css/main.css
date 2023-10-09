@@ -37,7 +37,7 @@ textarea {
     padding-top: 0.25em;
     padding-left: 0.25em;
     padding-right: 0.25em;
-    padding-bottom: 0.25em;
+    margin-bottom: 0.5em;
     background-color: #ffffff;
     border-radius: 0.25em;
 }
